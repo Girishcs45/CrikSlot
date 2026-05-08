@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { HiSearch, HiLocationMarker } from 'react-icons/hi';
 import { useNavigate } from 'react-router-dom';
-import referralBanner from "../assets/Referral.png";
+import referralBanner from "../assets/referral.png";
 import RatingStars from '../components/common/RatingStars';
 import { FetchTurf } from '../services/turf.services';
 
